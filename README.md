@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush-singh a.k.a ezydebug.
 - 👀 I can die for coding.
-- 🌱 I’m currently learning Data structures and Algorithms,web developement,java.
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me: ayushsinghgaur2100@gmail.com is my gmail you can contact me for any feedback or collabration.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im a coffee and code combo addict .
